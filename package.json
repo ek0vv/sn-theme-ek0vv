@@ -1,0 +1,16 @@
+{
+  "name": "sn-theme-ek0vv",
+  "version": "1.0.0",
+  "description": "Themes for Standard Notes",
+  "private": true,
+  "workspaces": [
+    "themes/darkpurple",
+  ],
+  "author": "ek0vv",
+  "license": "MIT",
+  "scripts": {
+    "build": "echo 'No build step necessary for pure CSS themes.'",
+    "publish": "echo 'Publish by tagging a release and using jsDelivr URLs.'"
+  }
+}
+
