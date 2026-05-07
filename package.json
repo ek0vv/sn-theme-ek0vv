@@ -4,7 +4,7 @@
   "description": "Themes for Standard Notes",
   "private": true,
   "workspaces": [
-    "themes/darkpurple",
+    "themes/ekmaterial",
   ],
   "author": "ek0vv",
   "license": "MIT",
