@@ -4,7 +4,7 @@
   "description": "Themes for Standard Notes",
   "private": true,
   "workspaces": [
-    "themes/ekmaterial",
+    "themes/ekmaterial"
   ],
   "author": "ek0vv",
   "license": "MIT",
@@ -13,4 +13,3 @@
     "publish": "echo 'Publish by tagging a release and using jsDelivr URLs.'"
   }
 }
-
