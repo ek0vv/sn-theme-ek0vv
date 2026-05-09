@@ -1,17 +1,3 @@
-@font-face {
-    font-family: "JetBrainsMono";
-    src: url("https://cdn.jsdelivr.net/gh/ek0vv/sn-theme-ek0vv@main/fonts/JetBrainsMono-Regular.woff2") format("woff2");
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "JetBrainsMono";
-    src: url("https://cdn.jsdelivr.net/gh/ek0vv/sn-theme-ek0vv@main/fonts/JetBrainsMono-Bold.woff2") format("woff2");
-    font-weight: bold;
-    font-style: normal;
-}
-
 :root {
     --base: #141118;
     --mantle: #141118;
